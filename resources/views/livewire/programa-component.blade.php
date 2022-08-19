@@ -1,0 +1,11 @@
+<div>
+    @include('livewire.programas.lista')
+    @include("livewire.programas.create")
+    @include("livewire.programas.edit")
+    @include("livewire.programas.modals")
+    @include("livewire.programas.createscrim")
+    @include("livewire.programas.modall")
+    @include("livewire.programas.createlenguaje")
+    @include("livewire.programas.modald")
+    @include("livewire.programas.createdescarga")
+</div>
